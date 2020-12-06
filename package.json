@@ -9,12 +9,12 @@
   "author": "Vicky",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vickyvastav/botvicky.git"
+    "url": "https://github.com/vickyvastav/bot"
   },
   "bugs": {
-    "url": "https://github.com/vickyvastav/botvicky/issues"
+    "url": "https://github.com/vickyvastav/bot/issues"
   },
-  "homepage": "https://github.com/vickyvastav/botvicky",
+  "homepage": "https://github.com/vickyvastav/bot",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
